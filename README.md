@@ -5,7 +5,7 @@ Simple Addon for blender, for setting your vertex alpha channel in specific tone
 ## Installation
 
 ```python
-Install like any addon, preferences -> Addons -> Install
+Install like any addon, -> Preferences -> Addons -> Install
 ```
 
 ## Usage
