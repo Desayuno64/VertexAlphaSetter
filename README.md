@@ -23,3 +23,8 @@ Install like any addon, preferences -> Addons -> Install
 
 Profit
 ```
+![Test Image 1](https://github.com/Desayuno64/VertexAlphaSetter/blob/main/Tool.png)
+
+## Notes
+
+Remember that you need to set up a shader beforehand to visualize the alpha channel in blender, it's commonly used the Color Attribute Node
